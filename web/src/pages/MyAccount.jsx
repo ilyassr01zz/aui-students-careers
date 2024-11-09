@@ -80,7 +80,6 @@ function MyAccount() {
                 <option>Event Organizer</option>
                 <option>Graphic Designer</option>
                 <option>Administrator</option>
-                <option>Event Organizer</option>
                 <option>Writing Center Tutor</option>
                 </select>
               </div>
