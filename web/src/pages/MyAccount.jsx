@@ -88,9 +88,8 @@ function MyAccount() {
           </div>
         </div>
 
-        {/* Actions */}
+        {/* Editing */}
         <div className="space-y-4">
-          <h4 className="text-lg font-semibold text-gray-700">Actions</h4>
           <div className="flex space-x-4">
             <button className="flex-1 bg-green-600 text-white py-2 rounded-lg hover:bg-green-800">
               Change Profile Picture
