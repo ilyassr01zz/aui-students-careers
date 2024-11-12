@@ -12,7 +12,7 @@ function MyAccount() {
     <div className="flex flex-col items-center p-6 bg-indigo-950 min-h-screen">
       <h2 className="text-3xl font-bold text-white mb-8">My Account</h2>
       <div className="bg-white shadow-lg rounded-lg w-full max-w-xl p-6 space-y-6">
-        {/* Profile Headerr */}
+        {/* Profile Header */}
         <div className="flex items-center space-x-4">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbJgoqVZrAgEEIcnIX3LVq1yolhkvynHSSQ&s" 
